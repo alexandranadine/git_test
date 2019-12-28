@@ -1,0 +1,1 @@
+Alexandra's first git project. LEARNING IS HARD
